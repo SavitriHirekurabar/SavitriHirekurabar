@@ -2,64 +2,76 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Savitri;Aspiring+Software+Developer;Python+%7C+Machine+Learning+%7C+Django;Open+to+Opportunities">
 </p>
 
-# Hi 👋, I'm Savitri
-
-🚀 **Aspiring Software Developer | Python | Machine Learning | Django**  
-🎓 Recent Graduate with a strong interest in building intelligent, real-world applications  
+<h1 align="center">Hi 👋, I'm Savitri</h1>
+<h3 align="center">Aspiring Software Developer | Python | Machine Learning | Django</h3>
 
 ---
 
 ## 💡 About Me
-- 💻 Passionate about **Machine Learning and Web Development**
-- 🌱 Currently enhancing skills in **Django, Advanced Python, and Data Structures**
-- 🎯 Focused on building **scalable and impactful solutions**
-- 📌 Actively seeking **entry-level opportunities in software development**
+
+* 🎓 Recent Computer Science Graduate
+* 💻 Passionate about **Machine Learning and Web Development**
+* 🌱 Currently learning **Django, Advanced Python, and Data Structures**
+* 🎯 Focused on building **real-world and scalable applications**
+* 🚀 Actively seeking **entry-level opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python 🐍  
-- HTML, CSS 🌐  
-- Django ⚙️  
-- Git & GitHub 🔧  
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🧠 Personalized Learning Path Generator
-- Developed a Machine Learning-based system to recommend customized learning paths  
-- Analyzes user preferences and performance data  
-- Improves learning efficiency and engagement  
 
-### 💰 Dynamic Pricing Model using Machine Learning
-- Built a predictive model to adjust pricing based on demand  
-- Uses data analysis and ML techniques  
-- Simulates real-world pricing strategies  
+* ML-based system to recommend customized learning paths
+* Analyzes user preferences and learning goals
+* Improves learning efficiency and engagement
+
+### 💰 Dynamic Pricing Model
+
+* Predictive ML model for dynamic pricing
+* Uses data analysis to adjust prices based on demand
+* Inspired by real-world pricing strategies
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavitriHirekurabar&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SavitriHirekurabar&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavitriHirekurabar&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavitriHirekurabar&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SavitriHirekurabar)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SavitriHirekurabar&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: savitrihirekurabar126@gmail.com 
-- 💼 LinkedIn: linkedin.com/in/Savitri Hirekurabar 
+* 📧 Email: savitrihirekurabar126@gmail.com
+* 💼 LinkedIn: linkedin.com/in/savitriHirekurabar
 
 ---
 
 ## ⚡ Professional Statement
-Committed to continuous learning and applying technical skills to solve real-world problems efficiently.
+
+Passionate about leveraging technology to solve real-world problems. Committed to continuous learning and building impactful software solutions.
