@@ -1,59 +1,65 @@
-<h1 align="center">Hi 👋, I'm Savitri</h1>
-<h3 align="center">Aspiring Software Developer | Machine Learning Enthusiast</h3>
-
----
-
-🌱 **About Me**
-
-* 🎓 Recent Computer Science Graduate
-* 💻 Passionate about Python, Machine Learning & Web Development
-* 🚀 Love building real-world projects
-* 📈 Currently improving Data Structures & Algorithms
-
----
-
-🛠️ **Tech Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-lightgrey?logo=mysql&logoColor=black"/>
-</p>
-
----
-
-📌 **Projects**
-
-❤️ **Heart Disease Prediction**
-
-* ML model to predict heart disease
-* Working on full-stack Django integration
-
-💰 **Dynamic Pricing Model**
-
-* Price optimization using machine learning
-
-📚 **Personalized Learning Path Generator**
-
-* Recommends customized learning paths
-
----
-
-📊 **GitHub Stats**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-actual-username&show_icons=true&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Savitri;Aspiring+Software+Developer;Python+%7C+Machine+Learning+%7C+Django;Open+to+Opportunities">
 </p>
 
----
+# Hi 👋, I'm Savitri
 
-📫 **Connect With Me**
-
-* 🔗 LinkedIn: https://linkedin.com/in/Savitri Hirekurabar
-* 📧 Email: savitrihirekurabar126@gmail.com
+🚀 **Aspiring Software Developer | Python | Machine Learning | Django**  
+🎓 Recent Graduate with a strong interest in building intelligent, real-world applications  
 
 ---
 
-✨ *"Always learning, always growing."*
+## 💡 About Me
+- 💻 Passionate about **Machine Learning and Web Development**
+- 🌱 Currently enhancing skills in **Django, Advanced Python, and Data Structures**
+- 🎯 Focused on building **scalable and impactful solutions**
+- 📌 Actively seeking **entry-level opportunities in software development**
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 🐍  
+- HTML, CSS 🌐  
+- Django ⚙️  
+- Git & GitHub 🔧  
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Personalized Learning Path Generator
+- Developed a Machine Learning-based system to recommend customized learning paths  
+- Analyzes user preferences and performance data  
+- Improves learning efficiency and engagement  
+
+### 💰 Dynamic Pricing Model using Machine Learning
+- Built a predictive model to adjust pricing based on demand  
+- Uses data analysis and ML techniques  
+- Simulates real-world pricing strategies  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavitriHirekurabar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavitriHirekurabar&layout=compact)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SavitriHirekurabar)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: savitrihirekurabar126@gmail.com 
+- 💼 LinkedIn: linkedin.com/in/Savitri Hirekurabar 
+
+---
+
+## ⚡ Professional Statement
+Committed to continuous learning and applying technical skills to solve real-world problems efficiently.
