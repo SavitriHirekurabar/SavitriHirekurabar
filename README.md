@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Savitri 👋
 
-<!--
-**SavitriHirekurabar/SavitriHirekurabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science Graduate
+💻 Aspiring Software Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about building real-world applications using Python and Machine Learning. I enjoy solving problems and continuously improving my technical skills.
+
+---
+
+## 🛠️ Skills
+
+* Python
+* Data Structures & Algorithms
+* HTML, CSS
+* Django
+* Machine Learning Basics
+* SQL
+
+---
+
+## 📌 Projects
+
+### ❤️ Heart Disease Prediction System
+
+* Machine learning model to predict heart disease
+* Built using Python
+* Working on full-stack integration using Django
+
+### 💰 Dynamic Pricing Model
+
+* ML-based pricing strategy based on demand patterns
+
+### 📚 Personalized Learning Path Generator
+
+* Recommends learning paths based on user goals
+
+---
+
+## 📈 Currently Working On
+
+* Improving DSA skills
+* Building full-stack ML projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/savitriHirekurabar
+* Email: savitrihirekurabar126@gmail.com
+
+---
+
+⭐ Open to internships and entry-level opportunities
